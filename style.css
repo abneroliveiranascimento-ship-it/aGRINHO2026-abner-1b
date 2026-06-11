@@ -9,6 +9,7 @@
     top: 0;
     z-index: 1000;
 }
+
 .cabecalho-menu-item{
     text-decoration: none;
     color: gray
@@ -28,6 +29,6 @@
     transition: transform 0.2s;
 }
 span {
-    color: limegreen
+    color: black (limegreen);
     font-weight: bold;
 }
